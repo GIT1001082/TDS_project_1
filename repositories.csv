@@ -1,0 +1,370 @@
+login,full_name,created_at,stargazers_count,watchers_count,language,has_projects,has_wiki,license_name
+karishnu,karishnu/android-components,2019-02-03,1,1,Kotlin,True,False,Mozilla Public License 2.0
+karishnu,karishnu/android-sdk-repo,2019-07-03,1,1,,True,True,Not Available
+karishnu,karishnu/badges,2018-03-06,1,1,,True,True,MIT License
+karishnu,karishnu/begin-personal-website,2020-10-02,1,1,JavaScript,True,True,Apache License 2.0
+karishnu,karishnu/CANSAT-2018-GUI,2017-12-14,1,1,Java,True,True,Not Available
+karishnu,karishnu/ChipView,2017-05-21,1,1,Java,True,True,Apache License 2.0
+karishnu,karishnu/cornealx,2017-03-11,1,1,Java,True,True,Not Available
+karishnu,karishnu/data-forge-ts,2020-05-21,1,1,TypeScript,True,True,MIT License
+karishnu,karishnu/dbmsproject2017,2016-11-17,1,1,JavaScript,True,True,Not Available
+karishnu,karishnu/django-first,2016-06-04,0,0,Python,True,True,Not Available
+karishnu,karishnu/fake_news_detector,2017-10-31,1,1,Python,True,True,Not Available
+karishnu,karishnu/focus-android,2018-11-11,1,1,Java,True,True,Mozilla Public License 2.0
+karishnu,karishnu/gravitas-android,2016-02-28,0,0,Java,True,True,Not Available
+karishnu,karishnu/HiCycle-Android,2017-09-25,1,1,Java,True,True,Not Available
+karishnu,karishnu/k-9,2017-02-28,1,1,Java,True,True,Apache License 2.0
+karishnu,karishnu/learn-android,2015-11-11,0,0,Java,True,True,GNU General Public License v3.0
+karishnu,karishnu/MNIST_parallel_prediction,2017-11-08,3,3,Python,True,True,Not Available
+karishnu,karishnu/NoHotEncoder,2018-09-12,1,1,Python,True,True,Not Available
+karishnu,karishnu/PersonalWebsite,2016-09-03,1,1,CSS,True,True,Not Available
+karishnu,karishnu/Reinforcement_learning,2019-12-20,1,1,Jupyter Notebook,True,True,Not Available
+karishnu,karishnu/restappnode,2016-04-07,0,0,JavaScript,True,True,Not Available
+karishnu,karishnu/retwitter,2018-10-16,3,3,JavaScript,True,True,Not Available
+karishnu,karishnu/rule-based-gmail,2023-08-01,0,0,JavaScript,True,True,Not Available
+karishnu,karishnu/scdd-2016-app,2015-12-14,0,0,Java,True,False,Not Available
+karishnu,karishnu/Scholocal,2017-06-26,1,1,HTML,True,True,Not Available
+karishnu,karishnu/SimpleNotes,2017-08-02,1,1,Java,True,True,Not Available
+karishnu,karishnu/SocialDistancingAI,2020-05-21,1,1,Python,True,True,MIT License
+karishnu,karishnu/Techloop-A-Plus,2018-02-12,1,1,,True,True,MIT License
+karishnu,karishnu/tf-agents-multi-particle-envs,2020-08-22,2,2,Python,True,True,MIT License
+karishnu,karishnu/ThreeBarAttendanceGraph,2016-09-10,1,1,Java,True,True,Not Available
+AgnelSelvan,AgnelSelvan/A1-Technity-Phantom,2021-02-06,2,2,Dart,True,True,Not Available
+AgnelSelvan,AgnelSelvan/Agnel-Demos,2021-11-29,1,1,Swift,True,True,Not Available
+AgnelSelvan,AgnelSelvan/AgnelSelvan,2020-11-09,0,0,,True,True,Not Available
+AgnelSelvan,AgnelSelvan/AgnelSelvan.github.io,2020-11-09,0,0,JavaScript,True,True,Not Available
+AgnelSelvan,AgnelSelvan/annaistore,2020-06-04,0,0,Dart,True,True,Not Available
+AgnelSelvan,AgnelSelvan/AR-Weather-App-Flutter,2022-10-26,3,3,Dart,True,True,Not Available
+AgnelSelvan,AgnelSelvan/Blogs,2021-03-26,9,9,Objective-C,True,True,Not Available
+AgnelSelvan,AgnelSelvan/BMICalculator,2019-12-06,0,0,Dart,True,True,Not Available
+AgnelSelvan,AgnelSelvan/bonfire,2023-06-04,0,0,Dart,True,True,MIT License
+AgnelSelvan,AgnelSelvan/caption-generator-app,2021-04-08,1,1,C++,True,True,Not Available
+AgnelSelvan,AgnelSelvan/computer-store,2019-09-05,0,0,PHP,True,True,Not Available
+AgnelSelvan,AgnelSelvan/Connect-Us,2021-04-02,1,1,Dart,True,True,Not Available
+AgnelSelvan,AgnelSelvan/covid19-tracker,2020-09-07,3,3,Dart,True,True,Not Available
+AgnelSelvan,AgnelSelvan/Cross-the-road,2022-03-07,4,4,Swift,True,True,Not Available
+AgnelSelvan,AgnelSelvan/CSS-framework,2019-08-18,0,0,CSS,True,True,Not Available
+AgnelSelvan,AgnelSelvan/custom_packages_flutter,2021-05-18,2,2,Dart,True,True,Not Available
+AgnelSelvan,AgnelSelvan/Demo3,2021-11-25,0,0,Swift,True,True,Not Available
+AgnelSelvan,AgnelSelvan/Discord-Bot-Game,2021-08-14,0,0,Python,True,True,Not Available
+AgnelSelvan,AgnelSelvan/E-Chalan-System,2021-05-14,0,0,JavaScript,True,True,Not Available
+AgnelSelvan,AgnelSelvan/Emotion-Recognition,2021-02-04,1,1,Jupyter Notebook,True,True,Not Available
+AgnelSelvan,AgnelSelvan/extractunitypackage,2020-04-25,0,0,,True,True,Not Available
+AgnelSelvan,AgnelSelvan/Flames-Flutter-Effects,2022-06-19,0,0,Dart,True,True,Not Available
+AgnelSelvan,AgnelSelvan/FlashChat,2019-12-09,0,0,Dart,True,True,Not Available
+AgnelSelvan,AgnelSelvan/Flutter-Face-Detection,2022-03-14,6,6,C++,True,True,Not Available
+AgnelSelvan,AgnelSelvan/flutter-otp-autofill,2023-06-26,0,0,,True,True,Apache License 2.0
+AgnelSelvan,AgnelSelvan/Flutter-UI-Template,2022-04-13,39,39,Dart,True,True,Not Available
+AgnelSelvan,AgnelSelvan/Flutter-Web-Portfolio,2022-03-24,46,46,Dart,True,True,Not Available
+AgnelSelvan,AgnelSelvan/flutter_contacts_list,2020-06-18,0,0,,True,True,Not Available
+AgnelSelvan,AgnelSelvan/flutter_local_notifications,2021-01-29,0,0,,True,True,Not Available
+AgnelSelvan,AgnelSelvan/FolderSelectorPlugin,2021-04-17,1,1,Dart,True,True,MIT License
+KasamShaikh,KasamShaikh/ApressBot,2018-08-16,0,0,HTML,True,True,Not Available
+KasamShaikh,KasamShaikh/azure-docs,2018-06-14,0,0,PowerShell,True,False,Creative Commons Attribution 4.0 International
+KasamShaikh,KasamShaikh/AzureFunctions,2016-09-10,0,0,,True,True,Not Available
+KasamShaikh,KasamShaikh/AzureTalk-Cognitive,2018-01-27,0,0,HTML,True,True,Not Available
+KasamShaikh,KasamShaikh/AzureVidyapeethWebinar,2018-03-30,0,0,HTML,True,True,Not Available
+KasamShaikh,KasamShaikh/communities,2023-03-31,0,0,,True,True,MIT License
+KasamShaikh,KasamShaikh/DearAzure,2024-05-28,0,0,,True,True,Not Available
+KasamShaikh,KasamShaikh/deploytoAzure,2016-09-18,0,0,HTML,True,True,Not Available
+KasamShaikh,KasamShaikh/documentdb-dotnet-todo-app,2018-12-18,0,0,JavaScript,True,True,MIT License
+KasamShaikh,KasamShaikh/edudemo,2018-01-27,0,0,HTML,True,True,Not Available
+KasamShaikh,KasamShaikh/faqBots,2017-11-22,0,0,HTML,True,True,Not Available
+KasamShaikh,KasamShaikh/generative-ai-for-beginners,2023-11-16,0,0,,True,False,MIT License
+KasamShaikh,KasamShaikh/MS-Build-Cognitive,2017-12-22,0,0,HTML,True,True,Not Available
+KasamShaikh,KasamShaikh/mvcCodeExercise,2017-09-05,0,0,JavaScript,True,True,Not Available
+KasamShaikh,KasamShaikh/mvpfaqbot,2017-11-21,0,0,HTML,True,True,Not Available
+KasamShaikh,KasamShaikh/Python-Flask-HelloWorld,2017-10-10,2,2,Python,True,True,MIT License
+KasamShaikh,KasamShaikh/snake-game,2024-06-24,0,0,,True,True,Not Available
+KasamShaikh,KasamShaikh/storage-queue-dotnet-pop-receipt,2017-12-05,0,0,C#,True,True,MIT License
+mtwn105,mtwn105/50-a-foil-status,2021-03-11,0,0,,True,True,Not Available
+mtwn105,mtwn105/Angular-unit-tests,2020-06-07,0,0,,True,True,Not Available
+mtwn105,mtwn105/apisix-website,2021-03-01,0,0,,True,False,Not Available
+mtwn105,mtwn105/Auction-App-Backend,2021-05-10,0,0,Java,True,True,Apache License 2.0
+mtwn105,mtwn105/Awesome-JavaScript-Projects,2021-02-28,0,0,,True,True,Not Available
+mtwn105,mtwn105/BachatBazaarFlutter,2019-03-27,5,5,Dart,True,True,Not Available
+mtwn105,mtwn105/blogsss,2022-05-17,0,0,TypeScript,True,True,MIT License
+mtwn105,mtwn105/bookquotes,2021-10-11,0,0,JavaScript,True,True,MIT License
+mtwn105,mtwn105/Cipherly,2019-05-24,106,106,Dart,True,True,Apache License 2.0
+mtwn105,mtwn105/clienteling,2021-10-14,0,0,,True,True,Not Available
+mtwn105,mtwn105/clinix,2019-11-21,1,1,CSS,True,True,Not Available
+mtwn105,mtwn105/Clinix-Angular,2019-12-13,0,0,CSS,True,True,Not Available
+mtwn105,mtwn105/clinix-java,2019-12-13,0,0,Java,True,True,Not Available
+mtwn105,mtwn105/CodeSchoolQA,2021-10-02,0,0,,True,True,MIT License
+mtwn105,mtwn105/CodeY,2021-10-10,0,0,,True,True,MIT License
+mtwn105,mtwn105/COVID-DASH,2020-03-25,0,0,CSS,True,True,Not Available
+mtwn105,mtwn105/CurrencyXchangeFlutter,2019-05-15,0,0,Dart,True,True,Not Available
+mtwn105,mtwn105/dailydev-rss-to-twitter-weekly-bookmarks,2022-03-07,1,1,JavaScript,True,True,Apache License 2.0
+mtwn105,mtwn105/DecisionMaker,2019-05-14,0,0,Dart,True,True,Not Available
+mtwn105,mtwn105/deckdeckgo,2021-02-28,0,0,,True,True,Not Available
+mtwn105,mtwn105/donor-match,2023-06-03,0,0,TypeScript,True,True,Not Available
+mtwn105,mtwn105/dotreasury,2021-02-27,0,0,,True,True,Apache License 2.0
+mtwn105,mtwn105/DS-Algo-Zone,2021-10-01,0,0,C++,True,True,MIT License
+mtwn105,mtwn105/Expense-Manager-Angular,2019-10-30,0,0,,True,True,Not Available
+mtwn105,mtwn105/git_basics,2021-02-27,0,0,,True,False,Creative Commons Attribution Share Alike 4.0 International
+mtwn105,mtwn105/golpo-express,2021-10-13,0,0,,True,True,Not Available
+mtwn105,mtwn105/hackathon-docs,2022-08-29,0,0,,True,True,Not Available
+mtwn105,mtwn105/hackathon-participants-March-2022,2022-03-07,0,0,,True,True,Not Available
+mtwn105,mtwn105/haystacker,2021-02-28,0,0,,True,True,Not Available
+mtwn105,mtwn105/hb-front,2021-10-11,0,0,,True,True,GNU Affero General Public License v3.0
+ParthCheulkar,ParthCheulkar/AI-programs,2022-04-26,1,1,Jupyter Notebook,True,True,Not Available
+ParthCheulkar,ParthCheulkar/Assignment-week-2,2020-10-13,0,0,HTML,True,True,MIT License
+ParthCheulkar,ParthCheulkar/awesome-for-beginners,2019-10-24,0,0,,True,False,Not Available
+ParthCheulkar,ParthCheulkar/awesome-for-non-programmers,2019-10-24,0,0,,True,True,Not Available
+ParthCheulkar,ParthCheulkar/bank-bot,2021-09-22,1,1,HTML,True,True,Not Available
+ParthCheulkar,ParthCheulkar/cashflow-frontend,2022-06-15,0,0,JavaScript,True,True,The Unlicense
+ParthCheulkar,ParthCheulkar/Coloury-ColourGenerator,2022-01-06,0,0,CSS,True,True,MIT License
+ParthCheulkar,ParthCheulkar/DSCFest-Hacktoberfest,2019-10-03,0,0,,True,True,Not Available
+ParthCheulkar,ParthCheulkar/eth-todo-list,2021-07-22,1,1,JavaScript,True,True,Not Available
+ParthCheulkar,ParthCheulkar/first-contributions,2019-10-24,0,0,,True,True,MIT License
+ParthCheulkar,ParthCheulkar/FlaskNotes,2021-05-16,0,0,HTML,True,True,MIT License
+ParthCheulkar,ParthCheulkar/Fluffer-Todo-App,2020-10-19,0,0,,True,True,MIT License
+ParthCheulkar,ParthCheulkar/Flutter-Crypto_Wallet,2022-04-10,0,0,C++,True,True,Not Available
+ParthCheulkar,ParthCheulkar/frontend,2023-04-19,0,0,,True,True,Not Available
+ParthCheulkar,ParthCheulkar/Get-Dev-Resources,2020-10-13,0,0,,True,True,MIT License
+ParthCheulkar,ParthCheulkar/hacktoberfest-2020,2020-10-19,0,0,,True,True,Not Available
+ParthCheulkar,ParthCheulkar/HacktoberFest2020,2020-10-20,0,0,HTML,True,True,Not Available
+ParthCheulkar,ParthCheulkar/HTML-CSS-from-scratch,2020-10-19,0,0,HTML,True,True,Not Available
+ParthCheulkar,ParthCheulkar/kartikagarwal9.github.io,2020-10-19,0,0,,True,True,Not Available
+ParthCheulkar,ParthCheulkar/Login-Page,2020-09-18,0,0,HTML,True,True,Not Available
+ParthCheulkar,ParthCheulkar/make-pull-request,2020-10-24,0,0,,True,True,Not Available
+ParthCheulkar,ParthCheulkar/NEwsletter-,2020-10-19,0,0,,True,True,MIT License
+ParthCheulkar,ParthCheulkar/ParthCheulkar,2021-08-23,0,0,,True,True,Not Available
+ParthCheulkar,ParthCheulkar/project-1,2021-04-02,0,0,,True,True,Not Available
+ParthCheulkar,ParthCheulkar/react-expense-tracker,2021-07-23,0,0,JavaScript,True,True,Not Available
+ParthCheulkar,ParthCheulkar/React-template-components,2020-10-27,0,0,JavaScript,True,True,Not Available
+ParthCheulkar,ParthCheulkar/react-todo-list,2022-01-23,0,0,JavaScript,True,True,MIT License
+ParthCheulkar,ParthCheulkar/sbuttons,2020-10-19,0,0,,True,True,MIT License
+ParthCheulkar,ParthCheulkar/sem4-assignments,2021-04-22,0,0,Jupyter Notebook,True,True,Not Available
+ParthCheulkar,ParthCheulkar/subscription-form,2021-08-14,0,0,Python,True,True,MIT License
+vedantwork,vedantwork/Json-Response-Beautifier,2024-09-02,1,1,HTML,True,True,Not Available
+vedantwork,vedantwork/Log-Monitoring,2024-09-22,1,1,Python,True,True,Not Available
+vedantwork,vedantwork/Redis-Cache-Management,2024-08-24,1,1,Python,True,True,Not Available
+vedantwork,vedantwork/Skype-Error-Notifications,2024-01-29,1,1,Python,True,True,Not Available
+vedantwork,vedantwork/Slack-Error-Notifications,2024-08-24,1,1,Python,True,True,Not Available
+vedantwork,vedantwork/vedantwork,2024-08-24,1,1,,True,True,Not Available
+vedantwork,vedantwork/Vehicle-Parking-System,2024-09-16,2,2,,True,True,Not Available
+divyesh1099,divyesh1099/abhiyaan,2020-12-13,0,0,Python,True,True,Not Available
+divyesh1099,divyesh1099/abhiyaanviva,2020-11-29,0,0,,True,True,Not Available
+divyesh1099,divyesh1099/abhiyaan_v1,2020-10-24,0,0,Python,True,True,Not Available
+divyesh1099,divyesh1099/airplane,2020-10-22,0,0,Python,True,True,Not Available
+divyesh1099,divyesh1099/AlgoDocs,2021-10-09,0,0,,True,True,MIT License
+divyesh1099,divyesh1099/algoresearch,2023-05-11,0,0,Python,True,True,Not Available
+divyesh1099,divyesh1099/algorithms-sedgewick-wayne,2023-09-17,0,0,,True,True,MIT License
+divyesh1099,divyesh1099/apiraita,2023-05-17,0,0,Python,True,True,MIT License
+divyesh1099,divyesh1099/api_profanity_filter,2021-05-25,0,0,Python,True,True,Not Available
+divyesh1099,divyesh1099/augur,2021-08-19,0,0,,True,False,MIT License
+divyesh1099,divyesh1099/awesome-portfolio-websites,2021-07-15,0,0,HTML,True,False,MIT License
+divyesh1099,divyesh1099/badboystyle,2021-08-29,0,0,JavaScript,True,True,MIT License
+divyesh1099,divyesh1099/bhiksha,2022-11-27,0,0,TypeScript,True,True,Not Available
+divyesh1099,divyesh1099/biz_card,2021-07-08,0,0,Dart,True,True,Not Available
+divyesh1099,divyesh1099/board_app,2021-07-09,0,0,Dart,True,True,Not Available
+divyesh1099,divyesh1099/bulkEmailServer,2023-08-24,0,0,JavaScript,True,True,MIT License
+divyesh1099,divyesh1099/Bulky_MVC,2023-04-08,0,0,C#,True,True,Not Available
+divyesh1099,divyesh1099/calorieCounter,2023-10-24,0,0,JavaScript,True,True,MIT License
+divyesh1099,divyesh1099/ccl_project,2022-04-18,0,0,,True,True,MIT License
+divyesh1099,divyesh1099/cgdaServer,2023-08-13,0,0,JavaScript,True,True,MIT License
+divyesh1099,divyesh1099/charactermovement,2022-05-21,1,1,JavaScript,True,True,MIT License
+divyesh1099,divyesh1099/chat,2020-12-29,0,0,Python,True,True,Not Available
+divyesh1099,divyesh1099/ChatGemini,2023-12-28,0,0,JavaScript,True,True,Other
+divyesh1099,divyesh1099/chatify,2023-08-19,0,0,,True,True,Not Available
+divyesh1099,divyesh1099/chatNLPModel,2023-09-05,0,0,JavaScript,True,True,Not Available
+divyesh1099,divyesh1099/chat_application,2021-02-12,0,0,JavaScript,True,True,Not Available
+divyesh1099,divyesh1099/CircuitVerse,2021-09-04,0,0,JavaScript,True,True,MIT License
+divyesh1099,divyesh1099/cliniprosper,2023-11-27,0,0,JavaScript,True,True,Not Available
+divyesh1099,divyesh1099/codedam-hacktoberfest-projects,2022-10-22,0,0,,True,True,Not Available
+divyesh1099,divyesh1099/coding-interview-university,2021-06-25,0,0,,True,False,Creative Commons Attribution Share Alike 4.0 International
+usersk7,usersk7/ADC-Hackathon-Project-2018,2018-10-25,0,0,JavaScript,True,True,Not Available
+usersk7,usersk7/ADC-webapp,2019-05-28,0,0,,True,True,Not Available
+usersk7,usersk7/Admob-app,2019-05-28,0,0,Java,True,True,Not Available
+usersk7,usersk7/Advance-web-Spring-Hibernate-,2019-06-02,0,0,Java,True,True,Not Available
+usersk7,usersk7/algorithms_and_data_structures,2019-08-05,0,0,C++,True,True,GNU General Public License v2.0
+usersk7,usersk7/amazing_python3,2019-08-24,0,0,Python,True,True,Not Available
+usersk7,usersk7/android-examples,2020-03-15,0,0,,True,True,Apache License 2.0
+usersk7,usersk7/bankingchatbotabc,2019-07-21,0,0,CSS,True,True,MIT License
+usersk7,usersk7/Batch_B_Lnt_WebEx_24Jan2019,2019-05-25,0,0,Java,True,True,Not Available
+usersk7,usersk7/C-Plus-Plus,2019-08-05,0,0,C++,True,True,Not Available
+usersk7,usersk7/CCAT-Bot,2019-07-29,0,0,JavaScript,True,True,Not Available
+usersk7,usersk7/CDAC-Data-Structure,2019-03-27,0,0,C++,True,True,Not Available
+usersk7,usersk7/cdac-juhu,2019-05-21,0,0,Java,True,True,Not Available
+usersk7,usersk7/CDAC_AWP,2019-05-05,0,0,,True,True,Not Available
+usersk7,usersk7/cdac_feb_2019_mean,2019-05-14,0,0,JavaScript,True,True,Not Available
+usersk7,usersk7/Chef,2019-04-21,0,0,Ruby,True,True,Not Available
+usersk7,usersk7/coding-interview-university,2019-08-05,0,0,,True,False,Creative Commons Attribution Share Alike 4.0 International
+usersk7,usersk7/Cpp,2019-04-21,0,0,C++,True,True,Not Available
+usersk7,usersk7/C_Module,2019-02-17,0,0,C++,True,True,Not Available
+usersk7,usersk7/DAC-C-CAT-Assistant,2019-07-15,1,1,JavaScript,True,True,Not Available
+usersk7,usersk7/DataBase,2019-07-10,0,0,,True,True,Not Available
+usersk7,usersk7/Data_structure,2019-03-06,0,0,C++,True,True,Not Available
+usersk7,usersk7/DevOps,2019-06-21,0,0,,True,True,Not Available
+usersk7,usersk7/devops-questions,2019-06-28,0,0,,True,True,Not Available
+usersk7,usersk7/displayip,2017-10-27,0,0,Java,True,True,Not Available
+usersk7,usersk7/Django-Rasa-Bot,2019-06-28,0,0,Python,True,True,Not Available
+usersk7,usersk7/Docker,2018-10-18,0,0,Python,True,True,Not Available
+usersk7,usersk7/docker-flaskapp,2018-10-19,0,0,Python,True,True,Not Available
+usersk7,usersk7/DotNet,2019-06-04,0,0,JavaScript,True,True,Not Available
+usersk7,usersk7/DotNet-Assignment,2019-06-06,0,0,C#,True,True,Not Available
+Leovaldez42,Leovaldez42/03-Data-Structures,2023-12-21,0,0,,True,True,Not Available
+Leovaldez42,Leovaldez42/100LinesOfCode,2020-07-18,0,0,,True,True,GNU General Public License v3.0
+Leovaldez42,Leovaldez42/30-seconds-of-code,2020-07-17,0,0,,True,True,Creative Commons Zero v1.0 Universal
+Leovaldez42,Leovaldez42/Alien-Invasion,2020-03-19,0,0,Python,True,True,Not Available
+Leovaldez42,Leovaldez42/backend,2020-07-16,0,0,JavaScript,True,True,Not Available
+Leovaldez42,Leovaldez42/BlockChain,2020-07-08,0,0,Java,True,True,Not Available
+Leovaldez42,Leovaldez42/bookswap,2019-08-10,0,0,Java,True,True,Not Available
+Leovaldez42,Leovaldez42/cli,2020-07-31,0,0,,True,False,MIT License
+Leovaldez42,Leovaldez42/COCWebsite,2020-07-21,0,0,JavaScript,True,True,GNU General Public License v3.0
+Leovaldez42,Leovaldez42/CodeCrafters-CourseSuggestingWebApp,2020-07-09,0,0,,True,True,Not Available
+Leovaldez42,Leovaldez42/COVID-19-tracker,2020-05-27,0,0,JavaScript,True,True,Not Available
+Leovaldez42,Leovaldez42/CP,2022-01-01,0,0,C++,True,True,GNU Affero General Public License v3.0
+Leovaldez42,Leovaldez42/Data-Strcutures,2021-08-15,0,0,C++,True,True,Not Available
+Leovaldez42,Leovaldez42/DCS,2020-11-02,0,0,MATLAB,True,True,Not Available
+Leovaldez42,Leovaldez42/dealer,2021-02-19,0,0,Swift,True,True,Not Available
+Leovaldez42,Leovaldez42/deepracer-k1999-race-lines,2023-07-25,0,0,Jupyter Notebook,True,True,MIT License
+Leovaldez42,Leovaldez42/django-blog,2020-04-13,0,0,Python,True,True,Not Available
+Leovaldez42,Leovaldez42/dotfiles,2020-12-28,1,1,Shell,True,True,Not Available
+Leovaldez42,Leovaldez42/evernote,2020-05-08,0,0,JavaScript,True,True,Not Available
+Leovaldez42,Leovaldez42/Exercise-Tracker,2020-06-14,1,1,JavaScript,True,True,Not Available
+Leovaldez42,Leovaldez42/Flutter-world_time-app,2020-05-16,0,0,Dart,True,True,Not Available
+Leovaldez42,Leovaldez42/fun-thing,2022-02-19,0,0,Shell,True,True,Not Available
+Leovaldez42,Leovaldez42/HackerRank,2019-09-26,0,0,Python,True,True,Not Available
+Leovaldez42,Leovaldez42/homebrew-cask,2022-02-26,0,0,Ruby,True,False,"BSD 2-Clause ""Simplified"" License"
+Leovaldez42,Leovaldez42/Hotel-reservation,2020-05-20,0,0,JavaScript,True,True,Not Available
+Leovaldez42,Leovaldez42/IRI,2020-03-18,0,0,Python,True,True,MIT License
+Leovaldez42,Leovaldez42/Kitchen_Mate,2020-07-09,0,0,,True,True,Not Available
+Leovaldez42,Leovaldez42/krypto,2022-01-12,0,0,JavaScript,True,True,Not Available
+Leovaldez42,Leovaldez42/Leovaldez42,2020-09-11,1,1,,True,True,Not Available
+Leovaldez42,Leovaldez42/Maps,2020-08-21,0,0,Java,True,True,Not Available
+alandsilva26,alandsilva26/admin-theme,2020-08-19,0,0,CSS,True,True,MIT License
+alandsilva26,alandsilva26/alandsilva26,2020-07-20,0,0,Python,True,True,GNU General Public License v3.0
+alandsilva26,alandsilva26/alandsilva26.github.io,2020-09-21,0,0,TypeScript,True,True,MIT License
+alandsilva26,alandsilva26/arch-setup,2020-03-10,0,0,,True,False,Not Available
+alandsilva26,alandsilva26/astro-quickstart,2023-09-05,0,0,,True,True,Not Available
+alandsilva26,alandsilva26/azure-notes,2023-05-27,0,0,,True,True,Not Available
+alandsilva26,alandsilva26/beach-resort-react,2020-09-20,2,2,JavaScript,True,True,MIT License
+alandsilva26,alandsilva26/bill-split,2022-05-27,0,0,TypeScript,True,True,Not Available
+alandsilva26,alandsilva26/building-database-applications-in-php-Coursera,2020-10-12,0,0,PHP,True,True,Not Available
+alandsilva26,alandsilva26/chat-app-react,2020-09-05,0,0,JavaScript,True,True,MIT License
+alandsilva26,alandsilva26/cra-template,2020-09-26,0,0,HTML,True,True,MIT License
+alandsilva26,alandsilva26/CSS-Basic-Animations,2019-03-04,0,0,HTML,True,True,Not Available
+alandsilva26,alandsilva26/date_utils,2023-12-28,0,0,Dart,True,True,"BSD 3-Clause ""New"" or ""Revised"" License"
+alandsilva26,alandsilva26/debt-simplification,2023-10-24,0,0,,True,True,GNU General Public License v3.0
+alandsilva26,alandsilva26/dotfiles,2019-10-30,0,0,Python,True,True,Not Available
+alandsilva26,alandsilva26/ecommerce-react,2021-09-25,0,0,TypeScript,True,True,Not Available
+alandsilva26,alandsilva26/ecommerce-static-template,2021-05-03,0,0,HTML,True,True,MIT License
+alandsilva26,alandsilva26/EmailClient,2019-10-25,0,0,Java,True,True,Not Available
+alandsilva26,alandsilva26/ets2-chat-auto-translator,2022-08-12,0,0,Python,True,True,GNU General Public License v3.0
+alandsilva26,alandsilva26/firebase-auth-material-ui,2021-03-24,0,0,JavaScript,True,True,Not Available
+alandsilva26,alandsilva26/flask-celery,2023-04-08,0,0,Python,True,True,Not Available
+alandsilva26,alandsilva26/flutter-bloc,2020-12-06,0,0,Dart,True,True,Not Available
+alandsilva26,alandsilva26/FlutterProjectsTutorials,2020-03-12,0,0,Dart,True,True,GNU General Public License v3.0
+alandsilva26,alandsilva26/Folder-Structure-Conventions,2020-10-30,0,0,,True,True,MIT License
+alandsilva26,alandsilva26/github-nostalgia,2020-08-20,1,1,JavaScript,True,True,MIT License
+alandsilva26,alandsilva26/hope,2020-04-05,0,0,Python,True,True,GNU General Public License v3.0
+alandsilva26,alandsilva26/hotel-management-php,2020-11-17,48,48,PHP,True,True,MIT License
+alandsilva26,alandsilva26/hotel-management-website-template,2020-10-26,6,6,HTML,True,True,MIT License
+alandsilva26,alandsilva26/iris,2020-01-13,0,0,CSS,True,True,Not Available
+alandsilva26,alandsilva26/Java-Project-Sem-3,2019-10-02,0,0,Java,True,True,Not Available
+Aftab7021,Aftab7021/Aftab7021,2023-12-06,0,0,,True,True,Not Available
+Aftab7021,Aftab7021/birthday.wish-github.io,2024-09-13,0,0,CSS,True,True,Not Available
+Aftab7021,Aftab7021/Bitcoin,2024-03-08,0,0,,True,True,Not Available
+Aftab7021,Aftab7021/tictactoe,2023-12-05,0,0,Shell,True,True,Not Available
+lokita282,lokita282/APGP-calculator,2021-05-10,0,0,HTML,True,True,Not Available
+lokita282,lokita282/artstore,2021-10-27,0,0,,True,True,Not Available
+lokita282,lokita282/CapriWay,2023-11-03,0,0,,True,True,Not Available
+lokita282,lokita282/cnpracs,2022-06-05,0,0,,True,True,Not Available
+lokita282,lokita282/CoDivas-AMEX,2023-06-04,6,6,,True,True,Not Available
+lokita282,lokita282/Covid-data-portal,2022-01-21,0,0,JavaScript,True,True,Not Available
+lokita282,lokita282/design-resources-for-developers,2022-01-19,0,0,,True,True,MIT License
+lokita282,lokita282/djcsi_bitbybit,2023-04-08,0,0,,True,True,Not Available
+lokita282,lokita282/dsa-competition-game,2022-03-31,0,0,JavaScript,True,True,Not Available
+lokita282,lokita282/ecell-frontend-interview-tasks,2021-10-21,0,0,JavaScript,True,True,Not Available
+lokita282,lokita282/Google-Girls-Hackathon,2022-04-14,3,3,,True,True,Not Available
+lokita282,lokita282/Hackanova_BitByBit,2023-01-20,0,0,,True,True,Not Available
+lokita282,lokita282/KJHacks-7.0,2023-04-02,0,0,,True,True,Not Available
+lokita282,lokita282/lokita282,2022-01-19,0,0,,True,True,Not Available
+lokita282,lokita282/markdown-blog,2021-06-14,0,0,EJS,True,True,Not Available
+lokita282,lokita282/MedicAID-EY-Techathon-4.0,2023-12-17,0,0,,True,False,Not Available
+lokita282,lokita282/MeriBachat,2022-05-13,0,0,JavaScript,True,True,Not Available
+lokita282,lokita282/QuoteIT,2022-01-19,0,0,,True,True,Not Available
+lokita282,lokita282/Sarthak3003,2022-06-13,0,0,,True,True,Not Available
+lokita282,lokita282/SPIT_Hackathon,2023-02-08,0,0,,True,True,Not Available
+lokita282,lokita282/synapse-interview-tasks,2021-09-08,0,0,Jupyter Notebook,True,True,Not Available
+lokita282,lokita282/task-list-frontend,2021-11-24,0,0,JavaScript,True,True,Not Available
+lokita282,lokita282/task-manager-backend,2021-11-24,0,0,JavaScript,True,True,Not Available
+lokita282,lokita282/TechyBytes-My-Food-Pal,2022-01-29,5,5,,True,True,Not Available
+lokita282,lokita282/Unicode-Backend-Tasks,2021-07-30,0,0,JavaScript,True,True,Not Available
+lokita282,lokita282/Unicode-git,2021-09-12,0,0,Python,True,True,Not Available
+lokita282,lokita282/unicode-learning-period,2021-08-25,0,0,JavaScript,True,True,Not Available
+lokita282,lokita282/VR-Game,2022-02-09,0,0,,True,True,Not Available
+lokita282,lokita282/weather-website,2021-05-26,0,0,JavaScript,True,True,Not Available
+thejzany,thejzany/Arrays,2023-08-27,0,0,Java,True,True,Not Available
+thejzany,thejzany/Core-Java,2023-09-30,0,0,Java,True,True,Not Available
+thejzany,thejzany/Hibernate-JPA-CRUD-Operations,2023-09-19,0,0,Java,True,True,Not Available
+thejzany,thejzany/Hibernate-Types-Of-Mapping,2023-09-18,0,0,Java,True,True,Not Available
+thejzany,thejzany/JDBC-Basic-CRUD-Operations,2023-09-05,0,0,Java,True,True,Not Available
+thejzany,thejzany/Library-Management-System,2023-10-02,0,0,Java,True,True,Not Available
+thejzany,thejzany/Logical-Programming,2023-07-20,2,2,Java,True,True,Not Available
+thejzany,thejzany/Movie-Ticket-Booking-System,2023-08-01,2,2,Java,True,True,Not Available
+thejzany,thejzany/Pattern-Printing-Programs,2023-08-25,0,0,Java,True,True,Not Available
+thejzany,thejzany/Product-Management-System-JDBC,2023-09-09,0,0,Java,True,True,Not Available
+thejzany,thejzany/School-App-JDBC,2023-09-10,0,0,Java,True,True,Not Available
+thejzany,thejzany/Servlet-Cookies,2023-10-08,0,0,Java,True,True,Not Available
+thejzany,thejzany/Servlet-CRUD-Operations,2023-10-06,1,1,Java,True,True,Not Available
+thejzany,thejzany/Servlet-HttpSession,2023-10-10,0,0,,True,True,Not Available
+thejzany,thejzany/Spring-IOC-Instantiation,2023-12-01,0,0,,True,True,Not Available
+thejzany,thejzany/SQL,2023-08-24,0,0,,True,False,Not Available
+thejzany,thejzany/Strings,2023-08-28,0,0,Java,True,True,Not Available
+thejzany,thejzany/System-Design-Hibernate,2023-09-19,0,0,Java,True,True,Not Available
+thejzany,thejzany/thejzany,2023-09-08,0,0,,True,False,Not Available
+thejzany,thejzany/Web-Development,2023-09-21,0,0,HTML,True,True,Not Available
+ajaykakkar93,ajaykakkar93/aePicassoChart,2018-06-28,0,0,JavaScript,True,True,MIT License
+ajaykakkar93,ajaykakkar93/ajayk,2018-03-25,0,0,HTML,True,True,Not Available
+ajaykakkar93,ajaykakkar93/ajaykakkar93.github.io,2018-01-15,0,0,HTML,True,True,Other
+ajaykakkar93,ajaykakkar93/Breadcrumb,2019-09-27,1,1,JavaScript,True,True,Apache License 2.0
+ajaykakkar93,ajaykakkar93/CircularGauge,2019-09-27,0,0,JavaScript,True,True,GNU General Public License v3.0
+ajaykakkar93,ajaykakkar93/Custom-Sense-Mashup,2017-12-28,3,3,CSS,True,True,Not Available
+ajaykakkar93,ajaykakkar93/Export-Multiple,2022-09-08,0,0,JavaScript,True,True,GNU General Public License v3.0
+ajaykakkar93,ajaykakkar93/ExtensionList,2019-09-24,0,0,HTML,True,True,GNU General Public License v3.0
+ajaykakkar93,ajaykakkar93/FlexLayout,2019-03-03,0,0,Swift,True,True,MIT License
+ajaykakkar93,ajaykakkar93/HRTheme,2019-09-27,1,1,CSS,True,True,GNU General Public License v3.0
+ajaykakkar93,ajaykakkar93/ImageColorFill,2019-09-27,1,1,JavaScript,True,True,GNU General Public License v3.0
+ajaykakkar93,ajaykakkar93/InputForm,2019-09-27,4,4,JavaScript,True,True,GNU General Public License v3.0
+ajaykakkar93,ajaykakkar93/JRN-418,2018-05-10,0,0,HTML,True,True,Other
+ajaykakkar93,ajaykakkar93/kpi_5,2018-06-28,0,0,CSS,True,True,Not Available
+ajaykakkar93,ajaykakkar93/kpi_7,2018-07-01,0,0,CSS,True,True,Not Available
+ajaykakkar93,ajaykakkar93/lollipop-chart,2019-04-03,0,0,JavaScript,True,True,MIT License
+ajaykakkar93,ajaykakkar93/manikaseth,2022-08-07,0,0,CSS,True,True,Other
+ajaykakkar93,ajaykakkar93/node,2018-02-07,1,1,JavaScript,True,True,Other
+ajaykakkar93,ajaykakkar93/OvalKPI,2019-09-27,0,0,JavaScript,True,True,GNU General Public License v3.0
+ajaykakkar93,ajaykakkar93/picasso.js,2018-02-16,1,1,JavaScript,True,False,MIT License
+ajaykakkar93,ajaykakkar93/Ploty-Bar-Line-Chart,2020-09-21,0,0,JavaScript,True,True,MIT License
+ajaykakkar93,ajaykakkar93/PricingTable,2019-03-24,0,0,JavaScript,True,True,MIT License
+ajaykakkar93,ajaykakkar93/Qlik-Sense-BarChart-Growth,2021-10-06,1,1,JavaScript,True,True,GNU General Public License v3.0
+ajaykakkar93,ajaykakkar93/Qlik-Sense-Dialog-Box,2019-03-05,2,2,JavaScript,True,True,MIT License
+ajaykakkar93,ajaykakkar93/qlik-sense-styler,2017-09-26,7,7,JavaScript,True,True,Not Available
+ajaykakkar93,ajaykakkar93/Qlik-Sense-Styler-Mashup,2019-03-08,1,1,JavaScript,True,True,Not Available
+ajaykakkar93,ajaykakkar93/QlikSense-Sheet-Styler-Lite,2017-12-28,23,23,JavaScript,True,True,Not Available
+ajaykakkar93,ajaykakkar93/QlikSense_Organisationchart,2019-03-03,0,0,CSS,True,True,MIT License
+ajaykakkar93,ajaykakkar93/Qlik_Sense_Extension-GridChartV2,2019-03-18,0,0,JavaScript,True,True,MIT License
+ajaykakkar93,ajaykakkar93/QS-Legend,2018-07-01,1,1,JavaScript,True,True,GNU General Public License v3.0
+Hiral25p,Hiral25p/ArogyaMate,2023-09-24,0,0,PHP,True,True,Not Available
+Hiral25p,Hiral25p/BarnabyAI,2024-07-22,0,0,,True,True,Not Available
+Hiral25p,Hiral25p/bit-n-build-hackathon,2023-01-28,0,0,HTML,True,True,MIT License
+Hiral25p,Hiral25p/Book-Management-system,2022-07-01,0,0,Python,True,True,Not Available
+Hiral25p,Hiral25p/DeepCytes---Truecaller-DB,2024-07-18,0,0,HTML,True,True,Not Available
+Hiral25p,Hiral25p/DeepCytes-Blog-Scraper,2024-10-16,0,0,,True,True,Not Available
+Hiral25p,Hiral25p/DiM-semester-7,2024-09-12,0,0,HTML,True,True,Not Available
+Hiral25p,Hiral25p/Disease-Prediction,2022-11-30,0,0,Python,True,True,Not Available
+Hiral25p,Hiral25p/filemon,2023-11-07,0,0,,True,True,Not Available
+Hiral25p,Hiral25p/FreshFields,2023-03-21,0,0,HTML,True,True,MIT License
+Hiral25p,Hiral25p/frontend,2023-09-23,0,0,,True,False,Not Available
+Hiral25p,Hiral25p/frontend-new,2024-07-19,0,0,,True,True,Not Available
+Hiral25p,Hiral25p/Hand-Gesture-Recognition-Model,2024-05-19,0,0,Python,True,False,Not Available
+Hiral25p,Hiral25p/Hiral25p,2023-01-05,0,0,,True,True,Not Available
+Hiral25p,Hiral25p/Multilingual-Language-Translator,2023-11-15,0,0,,True,False,Not Available
+Hiral25p,Hiral25p/myflaskapp,2024-08-14,0,0,Python,True,True,Not Available
+Hiral25p,Hiral25p/SP1,2024-09-12,0,0,Java,True,False,Not Available
+Hiral25p,Hiral25p/SP2,2024-09-12,0,0,Python,True,True,Not Available
+Hiral25p,Hiral25p/SP3,2024-09-12,0,0,Java,True,True,Not Available
+Hiral25p,Hiral25p/To-Do-List,2023-11-14,0,0,PHP,True,True,Not Available
+Hiral25p,Hiral25p/To-Do-List-WP,2023-11-24,0,0,PHP,True,True,MIT License
