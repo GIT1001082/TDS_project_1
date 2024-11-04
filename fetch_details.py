@@ -5,7 +5,7 @@ import os
 import hashlib
 import json
 
-TOKEN = "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"
+TOKEN = "valid_token"
 HEADERS = {"Authorization": f"token {TOKEN}"}
 users = []
 repositories = []
